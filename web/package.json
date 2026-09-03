@@ -159,7 +159,7 @@
   },
   "resolutions": {
     "rc-resize-observer": "1.4.0",
-    "@xmldom/xmldom": "^0.8.13",
+    "@xmldom/xmldom": "^0.8.15",
     "serialize-javascript": "^7.0.5",
     "ip-address": "^10.1.1",
     "postcss": "^8.5.10",
