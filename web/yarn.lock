@@ -6813,15 +6813,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dompurify@npm:^3.4.1":
-  version: 3.4.1
-  resolution: "dompurify@npm:3.4.1"
+"dompurify@npm:^3.4.17":
+  version: 3.4.17
+  resolution: "dompurify@npm:3.4.17"
   dependencies:
     "@types/trusted-types": "npm:^2.0.7"
   dependenciesMeta:
     "@types/trusted-types":
       optional: true
-  checksum: 10c0/440a4246020cb54b82ef2cb66381e4d310a0c470f9994655e61b6122811f0eaa00a2f9665d2bed30ca3f58932ba7bb0d5e26fdfce61c8daf35d21a3f5a799e48
+  checksum: 10c0/6a12251ef5e700fc91b6d96d33e9f8b5fd590c55276f632cf42d182c5808e9f48d5bef435ab26eac235dfcc05ed8fe95e1c8308dcc502bf1050e561f14d0361a
   languageName: node
   linkType: hard
 
@@ -12778,7 +12778,7 @@ __metadata:
     css-minimizer-webpack-plugin: "npm:^8.0.0"
     date-fns: "npm:^4.1.0"
     diff-arrays-of-objects: "npm:^1.1.10"
-    dompurify: "npm:^3.4.1"
+    dompurify: "npm:^3.4.17"
     eslint: "npm:^9.39.4"
     eslint-plugin-jest: "npm:^29.15.2"
     eslint-plugin-react: "npm:^7.37.5"
